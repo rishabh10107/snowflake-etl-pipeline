@@ -1,0 +1,4 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+data/supplier_case_data.csv
