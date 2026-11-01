@@ -3,8 +3,8 @@
 An end-to-end ETL pipeline built in **Snowflake** and **Python** that brings five separate data sources into one warehouse, then checks whether suppliers billed what they quoted.
 
 **Author:** Rishabh Soni · [LinkedIn](https://linkedin.com/in/rishabhsoni10)
-*Developed from a course project in the MS in Business Analytics program at UC San Diego's Rady School of Management (2024), then extended with corrected weather matching and an invoice-accuracy analysis.*
 
+*Developed from a course project in the MS in Business Analytics program at UC San Diego's Rady School of Management (2024), then extended with corrected weather matching and an invoice-accuracy analysis.*
 ---
 
 ## Why it matters
